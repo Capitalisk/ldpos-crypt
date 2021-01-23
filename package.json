@@ -1,28 +1,27 @@
 {
-  "name": "lisk-dex-encrypt-passphrase",
+  "name": "ldpos-crypt",
   "version": "1.0.4",
-  "description": "CLI command to quickly encrypt a passphrase for use by lisk-dex.",
+  "description": "CLI command to quickly encrypt and decrypt text",
   "main": "bin/cli.js",
   "bin": {
-    "lisk-dex-encrypt-passphrase": "bin/cli.js"
+    "ldpos-crypt": "bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jondubois/lisk-dex-encrypt-passphrase.git"
+    "url": "git+https://github.com/jondubois/ldpos-crypt.git"
   },
   "keywords": [
-    "lisk",
-    "dex",
+    "ldpos",
     "encrypt",
-    "passphrase"
+    "decrypt"
   ],
   "author": "Jonathan Gros-Dubois",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jondubois/lisk-dex-encrypt-passphrase/issues"
+    "url": "https://github.com/jondubois/ldpos-crypt/issues"
   },
-  "homepage": "https://github.com/jondubois/lisk-dex-encrypt-passphrase#readme"
+  "homepage": "https://github.com/jondubois/ldpos-crypt#readme"
 }
