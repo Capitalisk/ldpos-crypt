@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jondubois/ldpos-crypt.git"
+    "url": "git+https://github.com/Capitalisk/ldpos-crypt.git"
   },
   "keywords": [
     "ldpos",
@@ -21,7 +21,7 @@
   "author": "Jonathan Gros-Dubois",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jondubois/ldpos-crypt/issues"
+    "url": "https://github.com/Capitalisk/ldpos-crypt/issues"
   },
-  "homepage": "https://github.com/jondubois/ldpos-crypt#readme"
+  "homepage": "https://github.com/Capitalisk/ldpos-crypt#readme"
 }
